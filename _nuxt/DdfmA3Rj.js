@@ -1,1 +1,0 @@
-import{n as t,j as r,e as n,H as o}from"./mnrLzPVu.js";const s={},c={class:"hand-drawn-border flex cursor-pointer items-center justify-center space-y-4 border-4 px-3 py-2 text-center"};function _(e,a){return r(),n("button",c,[o(e.$slots,"default")])}const p=t(s,[["render",_]]);export{p as _};
