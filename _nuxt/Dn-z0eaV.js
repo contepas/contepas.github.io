@@ -1,0 +1,1 @@
+import{J as u,q as g,c as t}from"./D3vGxgIh.js";const l=u("languageStore",()=>{const e=g("English"),a=t(()=>e.value==="English"?"Dutch":"English"),n=()=>{e.value=a.value};return{selectedLanguage:t(()=>e.value),setAlternativeLanguage:n,alternativeLanguage:a}});export{l as u};
